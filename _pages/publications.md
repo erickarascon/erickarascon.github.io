@@ -4,8 +4,8 @@ defaults:
   - scope:
       path: ""
       type: pages
-    values:
-      layout: home
+  - values:
+      layout: single
       author_profile: true
 permalink: /publications/
 ---
