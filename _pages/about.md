@@ -7,7 +7,7 @@ defaults:
       values:
 layout: single
 author_profile: true
-permalink: /
+permalink: /about/
 ---
 
 # About me
