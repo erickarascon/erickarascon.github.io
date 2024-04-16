@@ -5,8 +5,8 @@ defaults:
       path: ""
       type: pages
       values:
-        layout: single
-        author_profile: true
+layout: single
+author_profile: true
 permalink: /publications/
 ---
 
@@ -27,5 +27,5 @@ permalink: /publications/
 
 [Poniendo al Ingreso de los Hogares en el Mapa de Mexico](https://biblat.unam.mx/hevila/EconomiaMexicana/2007/vol16/no2/3.pdf) (with Luis Lopez-Calva, Alvaro Melendez, Lourdes Rodriguez and Miguel Szekely). **Economía Mexicana**.  2007.
 
-[Mexico 2000-2002: Reduccion de la pobreza con estabilidad y expansion de programas sociales](https://www.redalyc.org/pdf/323/32314203.pdf) (with Miguel Szekely). **Economía Mexicana**.  2005.
+[Mexico 2000-2002: Reduccion de la Pobreza con Estabilidad y Expansion de Programas sociales](https://www.redalyc.org/pdf/323/32314203.pdf) (with Miguel Szekely). **Economía Mexicana**.  2005.
 

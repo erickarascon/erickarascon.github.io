@@ -20,7 +20,7 @@ title                    : "Dr Ericka Rascón Ramírez"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dr Ericka Rascón"
-description              : "An amazing website."
+description              : "The website of development economist Dr Ericka Rascon."
 url                      : erickarascon.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : erickarascon/erickarascon.github.io
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ericka Rascón"
+  name             : "Dr Ericka Rascón"
   avatar           : "/assets/images/bio-photo.png"
   bio              : "Development Economist"
   location         : "London and Mexico City"
@@ -128,6 +128,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Google Scholar"
+      # icon: "fab fa-fw fa-google-scholar"
+      url: https://scholar.google.com/citations?user=yHWK6R0AAAAJ&hl=en
 
 # Site Footer
 footer:
