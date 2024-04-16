@@ -10,7 +10,7 @@ author_profile: true
 permalink: /publications/
 ---
 
-# Journal Articles
+**Journal Articles**
  
 [Can Online Civic Education Induce Democratic Citizenship? Experimental Evidence from a New Democracy](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12765) (with Steven Finkel & Anja Neundorf).  **American Journal of Political Science**. 2023.
  
