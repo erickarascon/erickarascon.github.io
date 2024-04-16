@@ -10,7 +10,7 @@ author_profile: true
 permalink: /
 ---
 
-# About me
+**About me**
 
 Welcome! I am an applied economist who designs and evaluates social interventions.
 

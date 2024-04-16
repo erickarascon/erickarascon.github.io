@@ -118,7 +118,7 @@ author:
     #   # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ericka_rascon"
+      url: https://twitter.com/ericka_rascon
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
     #   # url: "https://facebook.com/"
@@ -137,7 +137,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ericka_rascon"
+      url: https://twitter.com/ericka_rascon
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
     #   # url:
