@@ -10,4 +10,4 @@ author_profile: true
 permalink: /cv/
 ---
 
-You can download a PDF copy of my CV [here](erickarascon.io/assets/files/cv-ericka-rascon.pdf).
+You can download a PDF copy of my CV [here](/assets/files/cv-ericka-rascon.pdf).
