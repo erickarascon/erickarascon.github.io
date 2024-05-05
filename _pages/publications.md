@@ -8,12 +8,12 @@ defaults:
 layout: single
 author_profile: true
 permalink: /publications/
+title: Journal Articles
 ---
 
-**Journal Articles**
- 
+[Question-order Effects on Judgements under Uncertainty](https://doi.org/10.1016/j.socec.2023.102159) (with Rafael Novella).  **Journal of Behavioral and Experimental Economics**.  2024.
+
 [Can Online Civic Education Induce Democratic Citizenship? Experimental Evidence from a New Democracy](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12765) (with Steven Finkel & Anja Neundorf).  **American Journal of Political Science**. 2023.
- 
 
 [Anchors Matter: Eliciting Maternal Expectations on Educational Outcomes](https://www.sciencedirect.com/science/article/abs/pii/S0167487022000289) (with Pablo Branas-Garza & Riccardo Ciacci). **Journal of Economic Psychology**.  2022.
 
@@ -28,4 +28,3 @@ permalink: /publications/
 [Poniendo al Ingreso de los Hogares en el Mapa de Mexico](https://biblat.unam.mx/hevila/EconomiaMexicana/2007/vol16/no2/3.pdf) (with Luis Lopez-Calva, Alvaro Melendez, Lourdes Rodriguez and Miguel Szekely). **Economía Mexicana**.  2007.
 
 [Mexico 2000-2002: Reduccion de la Pobreza con Estabilidad y Expansion de Programas sociales](https://www.redalyc.org/pdf/323/32314203.pdf) (with Miguel Szekely). **Economía Mexicana**.  2005.
-

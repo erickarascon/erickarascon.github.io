@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr Ericka Rascón Ramírez"
+title                    : "Dr Ericka Rascón"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dr Ericka Rascón"
-description              : "The website of development economist Dr Ericka Rascon."
+description              : "The website of development economist Dr Ericka Rascón."
 url                      : erickarascon.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : erickarascon/erickarascon.github.io
@@ -131,6 +131,9 @@ author:
     - label: "Google Scholar"
       # icon: "fab fa-fw fa-google-scholar"
       url: https://scholar.google.com/citations?user=yHWK6R0AAAAJ&hl=en
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: https://orcid.org/0000-0002-2214-2224
 
 # Site Footer
 footer:

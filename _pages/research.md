@@ -8,18 +8,22 @@ defaults:
 layout: single
 author_profile: true
 permalink: /research/
+title: Research
 ---
-
-**Research**
  
 My research focuses on how parents influence child development and adolescent behaviour (schooling, learning and sexual outcomes), as well as how interventions could use behavioural insights to be more effective on the promotion of healthy habits and dissemination of information to facilitate labour market and school-related choices.  
  
-My most recent research project in the field is an extension of my doctoral work on subjective expectations and aspirations to increase schooling enrolment and learning outcomes in rural communities in Nigeria.
+My most recent research projects in the field focus on how to increase schooling enrolment and learning outcomes as well as to decrease early parenthood in rural communities in developing countries.
  
 I am also working with political scientists to design interventions to promote democratic behaviour, as well as with government agencies and international organisations to promote mobile learning and mobile banking.   
  
-My experience on design and evaluation of social interventions has been primarily focused on Africa and Middle East.
+My experience on design, implementation, and evaluation of social interventions in the field and on online platforms has been primarily in Africa and Middle East.
 
-![](/assets/images/movies-and-mobiles.jpeg) | [Movies and Mobiles](https://www.socialscienceregistry.org/trials/3619)
-![](/assets/images/learning-democracy.png) | [Learning Democracy](https://www.socialscienceregistry.org/trials/4509)
-![](/assets/images/educational-entertainment.jpeg) | [Educational Entertainment](https://aspredicted.org/e4h8c.pdf)
+| | Project | Type
+![](/assets/images/movies-and-mobiles.jpeg) | [Increasing school enrolment and learning through movies and mobiles](https://www.socialscienceregistry.org/trials/3619)  | Clustered RCT
+![](/assets/images/educational-entertainment.jpeg) | [Sexual awareness through educational entertainment](https://aspredicted.org/e4h8c.pdf) | RCT
+![](/assets/images/learning-democracy.png) | [Promotion of civic education in a new democracy](https://www.socialscienceregistry.org/trials/4509) | RCT
+![](/assets/images/prospect.png) | [Testing frames to learn about democracy](https://osf.io/qjrdz) | RCT
+![](/assets/images/gender.png) | [Examining gender stereotypes and homophily in team formation](https://aspredicted.org/PZG_FHD) | Online experiment
+![](/assets/images/edtech.png) | Promotion of educational technologies | Research pilot
+![](/assets/images/counter.png) | Raising awareness on misogyny and toxic masculinity | Research pilot

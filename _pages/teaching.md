@@ -8,9 +8,8 @@ defaults:
 layout: single
 author_profile: true
 permalink: /teaching/
+title: Teaching
 ---
-
-**Teaching**
 
 I have taught in Mexico ([CIDE](https://www.cide.edu) and [ITAM](https://www.itam.mx)) and the UK ([Essex](https://www.essex.ac.uk) and [Middlesex](https://www.mdx.ac.uk)).
 
