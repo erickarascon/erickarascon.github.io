@@ -29,6 +29,21 @@ title: Journal Articles
 
 [Mexico 2000-2002: Reduccion de la Pobreza con Estabilidad y Expansion de Programas sociales](https://www.redalyc.org/pdf/323/32314203.pdf) (with Miguel Szekely). **Economía Mexicana**.  2005.
 
+# Book
+
+[Urban Growth and Poverty in Towns of Different Sizes. Perspectives on Poverty in India. Stylized Facts from Survey Data](http://documents.worldbank.org/curated/en/103691468041447795/Main-report) (with Angus Deaton, Stefan Dercon, Peter Lanjouw, Rinku Murgay, Martin Ravallion, and others).
+
+# Book chapter
+
+Randomized Controlled Trials in Ulf Liebe (editor): **Handbook of Quantitative Methods in Sociology**. Edward Elgar.  Forthcoming.
+
+[Crimen y Educación en México](https://repositorio-digital.cide.edu/handle/11651/5906) (with Andro Asatashvili Anton & Raúl Cepeda Suárez) in Gustavo A. del Ángel Mobarak (editors): **La Economía Mexicana: Un Balance desde la Academia**. 2024.
+
+# Report
+
+[Mapping Subnational Poverty in Zambia](https://www.sidalc.net/search/Record/dig-okr-1098621783/Description)
+(with Andreas Murr & Alejandro de la Fuente). 2015.
+
 # Under Review
 
 [Diffusion of mobile banking among rural women: Incentivizing local leaders vs. a marketing campaign](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974966) (with Pablo Brañas-Garza & Jaromír Kovářík).
