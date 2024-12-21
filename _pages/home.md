@@ -19,6 +19,8 @@ I earned my PhD in Economics from the [University Essex](https://www.essex.ac.uk
 
 My academic work has been [published](/publications/) in the *American Journal of Political Science*, *Economic Letters*, the *International Journal of Forecasting*, and *Judgement and Decision Making*, among other outlets.
 
-My most recent [research](/research/) focuses on increasing schooling enrolment and learning outcomes in rural communities in developing countries.
+My most recent [research](/research/) focuses on increasing schooling enrolment and learning outcomes in developing countries, increasing awareness about risky sexual behaviour, and improving young people's civic education.
+
+I am Associate Editor of the [Latin American Economic Review](https://www.latinaer.org/index.php/laer), Member of the Editorial Board of the [Journal of Behavioral and Experimental Economics](https://www.sciencedirect.com/journal/journal-of-behavioral-and-experimental-economics), and Guest Editor of the [Special Issue on the 50th Anniversary of the Division of Economics of CIDE](https://www.latinaer.org/index.php/laer/announcement/view/3).
 
 I have [taught](/teaching/) courses in microeconomics, development economics, econometrics, and experimental methods.

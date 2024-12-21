@@ -31,7 +31,7 @@ title: Journal Articles
 
 # Book
 
-[Urban Growth and Poverty in Towns of Different Sizes. Perspectives on Poverty in India. Stylized Facts from Survey Data](http://documents.worldbank.org/curated/en/103691468041447795/Main-report) (with Angus Deaton, Stefan Dercon, Peter Lanjouw, Rinku Murgay, Martin Ravallion, and others).
+[Urban Growth and Poverty in Towns of Different Sizes. Perspectives on Poverty in India. Stylized Facts from Survey Data](http://documents.worldbank.org/curated/en/103691468041447795/Main-report) (with Angus Deaton, Stefan Dercon, Peter Lanjouw, Rinku Murgay, Martin Ravallion, and others). The World Bank.  2011.
 
 # Book chapter
 
@@ -42,7 +42,7 @@ Randomized Controlled Trials in Ulf Liebe (editor): **Handbook of Quantitative M
 # Report
 
 [Mapping Subnational Poverty in Zambia](https://www.sidalc.net/search/Record/dig-okr-1098621783/Description)
-(with Andreas Murr & Alejandro de la Fuente). 2015.
+(with Andreas Murr & Alejandro de la Fuente). The World Bank. 2015.
 
 # Under Review
 
