@@ -25,6 +25,16 @@ title: Journal Articles
 
 [El Ingreso de los Hogares en el Mapa de Mexico](https://www.jstor.org/stable/20857184) (with Luis Lopez-Calva, Alvaro Melendez, Lourdes Rodriguez & Miguel Szekely). **El Trimestre Economico**.  2008.
 
-[Poniendo al Ingreso de los Hogares en el Mapa de Mexico](https://biblat.unam.mx/hevila/EconomiaMexicana/2007/vol16/no2/3.pdf) (with Luis Lopez-Calva, Alvaro Melendez, Lourdes Rodriguez and Miguel Szekely). **Economía Mexicana**.  2007.
+[Poniendo al Ingreso de los Hogares en el Mapa de Mexico](https://biblat.unam.mx/hevila/EconomiaMexicana/2007/vol16/no2/3.pdf) (with Luis Lopez-Calva, Alvaro Melendez, Lourdes Rodriguez & Miguel Szekely). **Economía Mexicana**.  2007.
 
 [Mexico 2000-2002: Reduccion de la Pobreza con Estabilidad y Expansion de Programas sociales](https://www.redalyc.org/pdf/323/32314203.pdf) (with Miguel Szekely). **Economía Mexicana**.  2005.
+
+# Under Review
+
+[Diffusion of mobile banking among rural women: Incentivizing local leaders vs. a marketing campaign](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974966) (with Pablo Brañas-Garza & Jaromír Kovářík).
+
+[Building Democratic Support in Authoritarian Contexts: How Message Frames Matter](https://osf.io/preprints/osf/fqn5g) (with Aykut Öztürk, Steven Finkel & Anja Neundorf).
+
+[Choosing Democracy Over Party? How Civic Education Can Mitigate the Anti-democratic Effects of Partisan Polarization](https://osf.io/preprints/osf/pk4gz) (with Melek Hilal Eroglu, Steven Finkel, Anja Neundorf & Aykut Öztürk).
+
+[(When) Does civic education work:Evidence from a cross-national online experiment](https://osf.io/preprints/osf/ue6qj) (with Anja Neundorf, Aykut Öztürk & Steven Finkel.
