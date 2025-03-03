@@ -13,7 +13,7 @@ title: Work in progress
  
 1. Medium- and Long-term Impacts on School Enrollment and Learning through Videos and Mobiles: Experimental Evidence from Northern Nigeria (with Victor Orozco).
 
-2. [Gender Differences in Task Performance and Beliefs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146749) (with Antonio Cabrales, Lorenzo Ductor and Ismael Rodriguez-Lara).
+2. [Gender Stereotypes and Homophily in Team Formation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146749) (with Antonio Cabrales, Lorenzo Ductor and Ismael Rodriguez-Lara).
 
 3. The Effect of Hard and Soft Skills on Sexual Behaviour (with Maria Jones and Victor Orozco).
 
