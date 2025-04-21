@@ -20,3 +20,5 @@ title: Work in progress
 4. Prospect Theory and Reference Points in Civic Education Campaigns: Cross-national Experimental Evidence (with Steve Finkel, Anja Neundorf and Aykut Öztürk).
 
 5. Eliciting Probalities in the Field: Beads vs Sliders (with Lorenzo Estepa, Diego Jorrat and Victor Orozco).
+
+6.  Mobilizing for Democracy Under Authoritarianism: The Power of Social Media Advertisement (with Steven Finkel, Anja Neundorf and Aykut Öztürk)
