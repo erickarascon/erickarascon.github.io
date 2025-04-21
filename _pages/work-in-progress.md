@@ -18,3 +18,5 @@ title: Work in progress
 3. Educational Entertainment, Prospect Theory and Self-Efficacy: Increasing Sexual Awareness using Videos among African Youth (with Andreas Murr and Synnove Rabbevaag).
 
 4. Prospect Theory and Reference Points in Civic Education Campaigns: Cross-national Experimental Evidence (with Steve Finkel, Anja Neundorf and Aykut Öztürk).
+
+5. Eliciting Probalities in the Field: Beads vs Sliders (with Lorenzo Estepa, Diego Jorrat and Victor Orozco).
