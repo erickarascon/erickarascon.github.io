@@ -12,6 +12,8 @@ main:
     url: "/work-in-progress/"
   - title: "Teaching"
     url: /teaching/
+  - title: "Supervision"
+    url: /supervision/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   - title: "CV"
