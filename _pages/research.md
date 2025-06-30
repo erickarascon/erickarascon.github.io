@@ -26,6 +26,7 @@ My experience on design, implementation, and evaluation of social interventions 
 ![](/assets/images/learning-democracy.png) | [Promotion of civic education in a new democracy](https://www.socialscienceregistry.org/trials/4509) | Online RCT | Tunisia
 ![](/assets/images/prospect.png) | [Testing frames to learn about democracy](https://osf.io/qjrdz) | RCT | Worldwide
 ![](/assets/images/gender.png) | [Examining gender stereotypes and homophily in team formation](https://aspredicted.org/PZG_FHD) | Online experiment | UK 
+![](/assets/images/parenthood.jpg) | [Transition to parenthood](https://x.com/T_to_Parenthood) | Survey experiment | UK
 ![](/assets/images/edtech.png) | Promotion of educational technologies | Research pilot | Worldwide
 ![](/assets/images/counter.png) | Raising awareness on misogyny and toxic masculinity | Research pilot | UK
 ![](/assets/images/boxing.jpeg) | [Evaluating the impact of boxing on trauma recovery, mental health, and women empowerment](https://fightforward.org.uk)  | Research pilot | UK
