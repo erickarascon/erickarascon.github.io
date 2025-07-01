@@ -25,7 +25,7 @@ Balint Lenkei (graduated in 2019): Essays on Development Economics (2nd supervis
 
 ### Visiting from Loyola University
 
-Diego Jorrat (graduated in 2021): Assessing risk preference and inter-temporal preference elicitation using incentivised and hypothetical measures).
+Diego Jorrat (graduated in 2021): Assessing risk preference and inter-temporal preference elicitation using incentivised and hypothetical measures.
 
 Lorenzo Estepa (graduated in 2021 from Loyola University): Beyond beans: Eliciting subjective probabilities using sliders in the field.
 
