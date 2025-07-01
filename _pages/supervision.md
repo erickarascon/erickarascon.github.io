@@ -21,9 +21,9 @@ Edwin Ikhuoria (2021-present): Informing advocacy strategies using social psycho
 
 Thi Phuong Anh Doan (graduated in 2024): Gender differences in the returns to academic collaboration  (main supervisor; 2nd supervisor: Dr Lorenzo Ductor).
 
-Balint Lenkei (graduated in 2019): Essays on Development Economics (2nd Supervisor; main supervisors Professor Pablo Branas Garza and Dr Michela Vecchi as main supervisors).
+Balint Lenkei (graduated in 2019): Essays on Development Economics (2nd supervisor; main supervisors: Prof. Pablo Branas Garza and Dr Michela Vecchi).
 
-### Visiting from Loyala University
+### Visiting from Loyola University
 
 Diego Jorrat (graduated in 2021): Assessing risk preference and inter-temporal preference elicitation using incentivised and hypothetical measures).
 
