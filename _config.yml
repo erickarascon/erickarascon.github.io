@@ -129,7 +129,9 @@ author:
     #   icon: "fab fa-fw fa-instagram"
     #   # url: "https://instagram.com/"
     - label: "Google Scholar"
-      icon: "fab-brands fa-google-scholar"
+      # icon: "fab fa-fw fa-google-scholar"
+      # icon: "fab-brands fa-google-scholar"
+      <i class="fa-brands fa-google-scholar"></i>
       url: https://scholar.google.com/citations?user=yHWK6R0AAAAJ&hl=en
     - label: "ORCID"
       icon: "fab fa-orcid"
