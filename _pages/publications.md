@@ -11,6 +11,8 @@ permalink: /publications/
 title: Journal Articles
 ---
 
+[Diffusion of mobile banking among rural women: Incentivizing local leaders vs. a marketing campaign](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974966) (with Pablo Brañas-Garza & Jaromír Kovářík).  **Journal of Behavioral and Experimental Finance**.  Accepted.
+
 [Choosing Democracy Over Party? How Civic Education Can Mitigate the Anti-democratic Effects of Partisan Polarization](https://osf.io/preprints/osf/pk4gz) (with Melek Hilal Eroglu, Steven Finkel, Anja Neundorf & Aykut Öztürk).  **British Journal of Political Science**.  Forthcoming.
 
 [Question-order Effects on Judgements under Uncertainty](https://doi.org/10.1016/j.socec.2023.102159) (with Rafael Novella).  **Journal of Behavioral and Experimental Economics**.  2024.
@@ -49,8 +51,6 @@ Randomized Controlled Trials in Ulf Liebe (editor): **Handbook of Quantitative M
 # Under Review
 
 [Gender Stereotypes and Homophily in Team Formation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146749) (with Antonio Cabrales, Lorenzo Ductor and Ismael Rodriguez-Lara).
-
-[Diffusion of mobile banking among rural women: Incentivizing local leaders vs. a marketing campaign](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974966) (with Pablo Brañas-Garza & Jaromír Kovářík).
 
 [Building Democratic Support in Authoritarian Contexts: How Message Frames Matter](https://osf.io/preprints/osf/fqn5g) (with Aykut Öztürk, Steven Finkel & Anja Neundorf).
 
