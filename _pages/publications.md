@@ -11,7 +11,7 @@ permalink: /publications/
 title: Journal Articles
 ---
 
-[Keep Positive and Defend Democracy: Building Democratic Support Under Authoritarianism](https://osf.io/preprints/osf/fqn5g) (with Aykut Öztürk, Steven Finkel & Anja Neundorf).  **European Journal of Political Research**.  Forthcoming.
+[Keep Positive and Defend Democracy: Framing Democratic Messages Under Authoritarianism](https://osf.io/preprints/osf/fqn5g) (with Aykut Öztürk, Steven Finkel & Anja Neundorf).  **European Journal of Political Research**.  Forthcoming.
 
 [Diffusion of mobile banking among rural women: Incentivizing local leaders vs. a marketing campaign](https://www.sciencedirect.com/science/article/abs/pii/S2214635025000668) (with Pablo Brañas-Garza & Jaromír Kovářík).  **Journal of Behavioral and Experimental Finance**.  2025.
 
@@ -39,7 +39,7 @@ title: Journal Articles
 
 [Urban Growth and Poverty in Towns of Different Sizes. Perspectives on Poverty in India. Stylized Facts from Survey Data](http://documents.worldbank.org/curated/en/103691468041447795/Main-report) (with Angus Deaton, Stefan Dercon, Peter Lanjouw, Rinku Murgay, Martin Ravallion, and others). The World Bank.  2011.
 
-# Book chapter
+# Book chapters
 
 Randomized Controlled Trials in Ulf Liebe (editor): **Handbook of Quantitative Methods in Sociology**. Edward Elgar.  Forthcoming.
 
