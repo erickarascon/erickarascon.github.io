@@ -11,9 +11,9 @@ permalink: /publications/
 title: Journal Articles
 ---
 
-[Diffusion of mobile banking among rural women: Incentivizing local leaders vs. a marketing campaign](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974966) (with Pablo Brañas-Garza & Jaromír Kovářík).  **Journal of Behavioral and Experimental Finance**.  Accepted.
+[Diffusion of mobile banking among rural women: Incentivizing local leaders vs. a marketing campaign](https://www.sciencedirect.com/science/article/abs/pii/S2214635025000668) (with Pablo Brañas-Garza & Jaromír Kovářík).  **Journal of Behavioral and Experimental Finance**.  2025.
 
-[Choosing Democracy Over Party? How Civic Education Can Mitigate the Anti-democratic Effects of Partisan Polarization](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/choosing-democracy-over-party-how-civic-education-can-mitigate-the-antidemocratic-effects-of-partisan-polarization/6E80D12664C509E01DE8C67EE2AC00BE?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark) (with Melek Hilal Eroglu, Steven Finkel, Anja Neundorf & Aykut Öztürk).  **British Journal of Political Science**.  Forthcoming.
+[Choosing Democracy Over Party? How Civic Education Can Mitigate the Anti-democratic Effects of Partisan Polarization](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/choosing-democracy-over-party-how-civic-education-can-mitigate-the-antidemocratic-effects-of-partisan-polarization/6E80D12664C509E01DE8C67EE2AC00BE?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark) (with Melek Hilal Eroglu, Steven Finkel, Anja Neundorf & Aykut Öztürk).  **British Journal of Political Science**.  2025.
 
 [Question-order Effects on Judgements under Uncertainty](https://doi.org/10.1016/j.socec.2023.102159) (with Rafael Novella).  **Journal of Behavioral and Experimental Economics**.  2024.
 
