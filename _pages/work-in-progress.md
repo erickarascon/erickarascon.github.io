@@ -21,4 +21,4 @@ title: Work in progress
 
 5. Eliciting Probalities in the Field: Beads vs Sliders (with Lorenzo Estepa, Diego Jorrat and Victor Orozco).
 
-6.  Mobilizing for Democracy Under Authoritarianism: The Power of Social Media Advertisement (with Steven Finkel, Anja Neundorf and Aykut Öztürk)
+6. Mobilizing for Democracy Under Authoritarianism: The Power of Social Media Advertisement (with Steven Finkel, Anja Neundorf and Aykut Öztürk)

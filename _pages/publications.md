@@ -11,6 +11,8 @@ permalink: /publications/
 title: Journal Articles
 ---
 
+[Keep Positive and Defend Democracy: Building Democratic Support Under Authoritarianism](https://osf.io/preprints/osf/fqn5g) (with Aykut Öztürk, Steven Finkel & Anja Neundorf).  **European Journal of Political Research**.  Forthcoming.
+
 [Diffusion of mobile banking among rural women: Incentivizing local leaders vs. a marketing campaign](https://www.sciencedirect.com/science/article/abs/pii/S2214635025000668) (with Pablo Brañas-Garza & Jaromír Kovářík).  **Journal of Behavioral and Experimental Finance**.  2025.
 
 [Choosing Democracy Over Party? How Civic Education Can Mitigate the Anti-democratic Effects of Partisan Polarization](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/choosing-democracy-over-party-how-civic-education-can-mitigate-the-antidemocratic-effects-of-partisan-polarization/6E80D12664C509E01DE8C67EE2AC00BE?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark) (with Melek Hilal Eroglu, Steven Finkel, Anja Neundorf & Aykut Öztürk).  **British Journal of Political Science**.  2025.
@@ -41,7 +43,9 @@ title: Journal Articles
 
 Randomized Controlled Trials in Ulf Liebe (editor): **Handbook of Quantitative Methods in Sociology**. Edward Elgar.  Forthcoming.
 
-[Crimen y Educación en México](https://repositorio-digital.cide.edu/handle/11651/5906) (with Andro Asatashvili Anton & Raúl Cepeda Suárez) in Gustavo A. del Ángel Mobarak (editors): **La Economía Mexicana: Un Balance desde la Academia**. 2024.
+2025: [La Complementariedad de la Política Social con Otras Políticas Económicas (The Complementarity of Social Policy with Other Economic Policies)](https://repositorio-digital.cide.edu/handle/11651/6422) (with Raúl Zúñiga) in Sonia Di Giannatale and Fausto Hernández Trillo (editors): **Los Retos de la Economía Mexicana 2025-2030**. CIDE.  2025
+
+[Crimen y Educación en México (Crime and Education in Mexico)](https://repositorio-digital.cide.edu/handle/11651/5906) (with Andro Asatashvili Anton & Raúl Cepeda Suárez) in Gustavo A. del Ángel Mobarak (editors): **La Economía Mexicana: Un Balance desde la Academia**. CIDE.  2024.
 
 # Report
 
