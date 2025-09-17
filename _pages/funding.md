@@ -13,7 +13,7 @@ title: Funding
 
 **Project** | **Role** | **Partners** | **Funder** | **Time** | **Amount**
 Empowering Young People through Digital Technologies and Aspirational Movies | PI | Victor Orozco | European Commission | 2024-2026 | 3,000,000 US dollars
-EdTech Multi-Country Online Trial | Victor Orozco and Tinsley Galyean | PI | European Union and the World Bank | 2022-2025 | 70,000 US dollars
+EdTech Multi-Country Online Trial | PI | Victor Orozco and Tinsley Galyean | European Union and the World Bank | 2022-2025 | 70,000 US dollars
 Movies, Mobile Gaming and Digital Books | PI | Victor Orozco | Nigerian Government, NORAD and the World Bank | 2017-2023 | 1,850,000 US dollars
 Transition to parenthood in UK SMEs | Co-I | Bianca Stumbitz, Bastien Chabe-Ferret, Helen Norman, Emma Banister and the Fatherhood Institute | ESRC | 2022-2025 | 552,543.86 pounds sterling 
 Democracy under Threat: How Education can Save it (DEMED)| Co-I | Anja Neundorf, Steve Finkel, Staffan Lindberg, and others | ERC | 2020-2025 | 1,995,024 euros
