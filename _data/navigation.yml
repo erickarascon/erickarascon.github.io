@@ -8,6 +8,8 @@ main:
     url: "/publications/"
   - title: "Research"
     url: "/research/"
+  - title: "Funding"
+    url: "/funding/"
   - title: "Work in progress"
     url: "/work-in-progress/"
   - title: "Teaching"
