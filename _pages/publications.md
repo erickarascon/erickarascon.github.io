@@ -43,7 +43,7 @@ title: Journal Articles
 
 Randomized Controlled Trials in Ulf Liebe (editor): **Handbook of Quantitative Methods in Sociology**. Edward Elgar.  Forthcoming.
 
-2025: [La Complementariedad de la Política Social con Otras Políticas Económicas (The Complementarity of Social Policy with Other Economic Policies)](https://repositorio-digital.cide.edu/handle/11651/6422) (with Raúl Zúñiga) in Sonia Di Giannatale and Fausto Hernández Trillo (editors): **Los Retos de la Economía Mexicana 2025-2030**. CIDE.  2025
+[La Complementariedad de la Política Social con Otras Políticas Económicas (The Complementarity of Social Policy with Other Economic Policies)](https://repositorio-digital.cide.edu/handle/11651/6422) (with Raúl Zúñiga) in Sonia Di Giannatale and Fausto Hernández Trillo (editors): **Los Retos de la Economía Mexicana 2025-2030**. CIDE.  2025
 
 [Crimen y Educación en México (Crime and Education in Mexico)](https://repositorio-digital.cide.edu/handle/11651/5906) (with Andro Asatashvili Anton & Raúl Cepeda Suárez) in Gustavo A. del Ángel Mobarak (editors): **La Economía Mexicana: Un Balance desde la Academia**. CIDE.  2024.
 
