@@ -56,6 +56,4 @@ Randomized Controlled Trials in Ulf Liebe (editor): **Handbook of Quantitative M
 
 [Gender Stereotypes and Homophily in Team Formation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146749) (with Antonio Cabrales, Lorenzo Ductor and Ismael Rodriguez-Lara).
 
-[Building Democratic Support in Authoritarian Contexts: How Message Frames Matter](https://osf.io/preprints/osf/fqn5g) (with Aykut Öztürk, Steven Finkel & Anja Neundorf).
-
 [(When) Does civic education work:Evidence from a cross-national online experiment](https://osf.io/preprints/osf/ue6qj) (with Anja Neundorf, Aykut Öztürk & Steven Finkel.
