@@ -58,4 +58,4 @@ Randomized Controlled Trials in Ulf Liebe (editor): **Handbook of Quantitative M
 
 [(When) Does civic education work:Evidence from a cross-national online experiment](https://osf.io/preprints/osf/ue6qj) (with Anja Neundorf, Aykut Öztürk & Steven Finkel.
 
-[Mobilizing for Democracy Under Authoritarianism: The Power of Social Media Advertisement](https://sciety-labs.elifesciences.org/articles/by?article_doi=10.31219/osf.io/g5cya_v2) (with Steven Finkel, Anja Neundorf and Aykut Öztürk)
+[Mobilizing for Democracy Under Authoritarianism: The Power of Social Media Advertisement](https://sciety-labs.elifesciences.org/articles/by?article_doi=10.31219/osf.io/g5cya_v2) (with Steven Finkel, Anja Neundorf and Aykut Öztürk).
