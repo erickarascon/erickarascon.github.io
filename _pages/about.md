@@ -13,7 +13,7 @@ title: About me
 
 Welcome! I am an applied economist who designs, implements, and evaluates social interventions.
 
-I am Associate Professor at the [University of Middlesex](https://www.mdx.ac.uk/) and Profesor Investigador Titular at [CIDE](https://www.cide.edu/).
+I am Associate Professor at the [University of Middlesex](https://www.mdx.ac.uk/), Profesor Investigador Titular at [CIDE](https://www.cide.edu/), and Invited Researcher at [Jameel Poverty Action Lab, MIT (J-PAL)](https://www.povertyactionlab.org).
 
 I earned my PhD in Economics from the [University Essex](https://www.essex.ac.uk/), my MSc in Economics from [University College London](https://www.ucl.ac.uk/), and my BSc in Economics from [CIDE](https://www.cide.edu/).
 
