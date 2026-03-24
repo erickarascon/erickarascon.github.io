@@ -11,7 +11,7 @@ permalink: /publications/
 title: Journal Articles
 ---
 
-[Keep Positive and Defend Democracy: Framing Democratic Messages Under Authoritarianism](https://osf.io/preprints/osf/fqn5g) (with Aykut Öztürk, Steven Finkel & Anja Neundorf).  **European Journal of Political Research**.  Forthcoming.
+[Keep Positive and Defend Democracy: Framing Democratic Messages Under Authoritarianism](https://www.cambridge.org/core/journals/european-journal-of-political-research/article/keep-positive-and-defend-democracy-framing-democratic-messages-under-authoritarianism/60009AA77B3EBBCCB1BC6FB51A219CCE) (with Aykut Öztürk, Steven Finkel & Anja Neundorf).  **European Journal of Political Research**.  2026.
 
 [Diffusion of mobile banking among rural women: Incentivizing local leaders vs. a marketing campaign](https://www.sciencedirect.com/science/article/abs/pii/S2214635025000668) (with Pablo Brañas-Garza & Jaromír Kovářík).  **Journal of Behavioral and Experimental Finance**.  2025.
 
