@@ -29,4 +29,4 @@ My experience on design, implementation, and evaluation of social interventions 
 ![](/assets/images/parenthood.jpg) | [Transition to parenthood](https://x.com/T_to_Parenthood) | Survey experiment | UK
 ![](/assets/images/edtech.png) | Promotion of educational technologies | Online experiment | Worldwide
 ![](/assets/images/counter.png) | Raising awareness on misogyny and toxic masculinity | Research pilot | UK
-![](/assets/images/shoutout.jpeg) | [Prebunking for democracy](https://www.shoutoutuk.org)  | Research pilot | UK
+![](/assets/images/shoutout) | [Prebunking for democracy](https://www.shoutoutuk.org)  | Research pilot | UK
