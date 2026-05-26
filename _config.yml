@@ -116,8 +116,8 @@ author:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "Twitter/X"
+      icon: "fa-brands fa-x-twitter"
       url: https://twitter.com/ericka_rascon
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
