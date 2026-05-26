@@ -1,0 +1,165 @@
+/* ===================================================================
+   Publications page styling
+   ===================================================================
+   Designed for Minimal Mistakes. Uses the theme's color variables
+   ($text-color, $muted-text-color, $border-color, $background-color,
+   $link-color) so it adapts automatically to whichever Minimal
+   Mistakes skin you're using.
+   =================================================================== */
+
+.pub-list {
+  margin-top: 1.5em;
+}
+
+.pub-section-heading {
+  font-size: 0.85em;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: $muted-text-color;
+  margin: 2.5em 0 1em;
+  padding-bottom: 0.4em;
+  border-bottom: 1px solid $border-color;
+
+  &:first-child {
+    margin-top: 0;
+  }
+}
+
+.pub-entry {
+  padding: 1.25em 0;
+  border-bottom: 1px solid mix($border-color, $background-color, 50%);
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.pub-title {
+  font-size: 1em;
+  font-weight: 600;
+  margin: 0 0 0.3em;
+  line-height: 1.4;
+
+  a {
+    color: $text-color;
+    text-decoration: none;
+    border-bottom: 1px solid mix($link-color, $background-color, 40%);
+
+    &:hover {
+      color: $link-color;
+      border-bottom-color: $link-color;
+    }
+  }
+}
+
+.pub-meta {
+  font-size: 0.9em;
+  color: $muted-text-color;
+  margin: 0 0 0.5em;
+  line-height: 1.55;
+
+  a {
+    color: $text-color;
+    text-decoration: none;
+    border-bottom: 1px dotted $muted-text-color;
+
+    &:hover {
+      color: $link-color;
+      border-bottom-style: solid;
+      border-bottom-color: $link-color;
+    }
+  }
+
+  .pub-venue {
+    font-style: italic;
+    color: $text-color;
+  }
+
+  .pub-year {
+    color: $muted-text-color;
+  }
+}
+
+.pub-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  margin: 0.5em 0 0;
+}
+
+.pub-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  font-size: 0.78em;
+  color: $muted-text-color;
+  background: mix($border-color, $background-color, 40%);
+  padding: 0.3em 0.7em;
+  border-radius: $border-radius;
+  text-decoration: none;
+  border: 1px solid transparent;
+  transition: all 0.15s ease;
+
+  i {
+    font-size: 0.9em;
+  }
+
+  &:hover {
+    color: $text-color;
+    border-color: $border-color;
+    text-decoration: none;
+  }
+}
+
+.pub-abstract {
+  margin-top: 0.6em;
+
+  summary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4em;
+    font-size: 0.78em;
+    color: $muted-text-color;
+    background: mix($border-color, $background-color, 40%);
+    padding: 0.3em 0.7em;
+    border-radius: $border-radius;
+    border: 1px solid transparent;
+    cursor: pointer;
+    list-style: none;
+    transition: all 0.15s ease;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &::marker {
+      display: none;
+    }
+
+    i {
+      font-size: 0.9em;
+      transition: transform 0.15s ease;
+    }
+
+    &:hover {
+      color: $text-color;
+      border-color: $border-color;
+    }
+  }
+
+  &[open] summary i {
+    transform: rotate(90deg);
+  }
+
+  .abstract-body {
+    margin: 0.8em 0 0;
+    padding: 0.8em 1em;
+    font-size: 0.9em;
+    line-height: 1.65;
+    color: $text-color;
+    background: mix($border-color, $background-color, 25%);
+    border-left: 3px solid $border-color;
+    border-radius: 0;
+  }
+}

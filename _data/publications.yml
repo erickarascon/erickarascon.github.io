@@ -1,0 +1,219 @@
+# Publications data file.
+#
+# Each entry is one publication. Order in this file = render order on
+# the page (newest at top, by convention).
+#
+# Fields:
+#   title:     Paper title (string). Used as the linked heading.
+#   coauthors: List of keys from _data/coauthors.yml. Omit or leave
+#              empty for sole-authored work.
+#   venue:     Journal or book name (string). Rendered in italics.
+#   year:      Year (integer).
+#   type:      "journal" or "book_chapter" — used to bucket the entries
+#              into sections.
+#   doi:       The primary "go to the paper" link. Despite the field
+#              name, this can be any canonical URL (DOI, journal page,
+#              publisher page). The paper title links to this.
+#   abstract:  The paper's abstract. Use `>` for multi-line. Leave
+#              empty to omit the Abstract toggle for that paper.
+#   links:     List of {label, icon, url} for the action pills below
+#              the citation. Common labels: Preprint, Replication,
+#              English version, Code, Supplement.
+
+# ===================================================================
+# Journal articles
+# ===================================================================
+
+- title: "Citizen Forecasting in a Mixed Electoral System: The 2021 German Federal Election as a Test Case"
+  coauthors: [arndt_leininger, lukas_stoetzer, mark_kayser]
+  venue: "International Journal of Forecasting"
+  year: 2026
+  type: journal
+  doi: "https://doi.org/10.1016/j.ijforecast.2025.03.007"
+  abstract: >
+    Existing studies show that aggregating citizens’ expectations about who will win can predict election outcomes in a majoritarian system. But can so-called citizen forecasting also successfully predict outcomes in mixed-member systems, where constituency results are less important? The existing evidence is mixed and limited in scope. We conducted, therefore, a citizen forecast of the 2021 German federal election by administering an original survey asking citizens who they thought would win in their constituency, what share of the vote each candidate would win in their constituency, and what share of the vote each party would win nationally. Citizens predicted constituency winners and vote shares more accurately than several benchmarks. However, our citizen forecast was based on a non-representative sample from an online-access panel. We conclude that citizen forecasting provides a simple and inexpensive way to predict the various relevant outcomes in mixed-member elections.
+  links:
+    - { label: "Replication", icon: "fa-solid fa-database", url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XKHTYB" }
+
+- title: "Election Forecasting: Political Economy Models"
+  coauthors: [michael_lewis_beck, john_kenny, debra_leiter, onyinye_ogili, mary_stegmaier, charles_tien]
+  venue: "International Journal of Forecasting"
+  year: 2025
+  type: journal
+  doi: "https://doi.org/10.1016/j.ijforecast.2025.02.006"
+  abstract: >
+    We draw globally on a major election forecasting tool, political economy models. Vote intention polls in pre-election public surveys are a widely known approach; however, the lesser-known political economy models take a different scientific tack, relying on regression analysis and voting theory, particularly the force of “fundamentals.” We begin our discussion with two advanced industrial democracies, the US and UK. We then examine two less frequently forecasted cases, Mexico and Ghana, to highlight the potential for political-economic forecasting and the challenges faced. In evaluating the performance of political economy models, we argue for their accuracy but do not neglect lead time, parsimony, and transparency. Furthermore, we suggest how the political economic approach can be adapted to the changing landscape that democratic electorates face.
+  links: []
+
+- title: "Citizen Forecasts of Mexican Presidential Elections, 2020–2024"
+  venue: "Política y Gobierno"
+  year: 2025
+  type: journal
+  doi: "http://politicaygobierno.cide.edu/index.php/pyg/article/view/1751"
+  abstract: >
+    La predicción científica de elecciones tiene una tradición larga y creciente en democracias bien establecidas; sin embargo, no ha progresado lo suficiente en América Latina. Para abonar a esto, analizamos las predicciones ciudadanas de las elecciones presidenciales mexicanas de 2000 a 2024. Desarrollamos nuevas herramientas estadísticas para estudiar si las predicciones ciudadanas revelan mejor los resultados electorales que el azar y que las encuestas de intención de voto. A partir de 55 encuestas, encontramos que los ciudadanos se vuelven mejores con el tiempo en predecir resultados electorales. Mientras que los ciudadanos, al inicio de la democracia en México, en el año 2000, predecían peor que el azar, en elecciones presidenciales recientes las han predicho de manera correcta. En la actualidad, dichas predicciones están a la par de las encuestas de intención de voto. A pesar de que los ciudadanos son ahora mejores que el azar al predecir el porcentaje de votos, siguen teniendo peores resultados que las encuestas de intención de voto. Para entender por qué, analizamos el sesgo y la varianza de las predicciones ciudadanas por primera vez en México. Encontramos que las principales razones por las que sus predicciones electorales han empeorado son la socialización bajo un régimen de partido único, la falta de experiencia con elecciones libres y justas, y las preocupaciones infundadas sobre si las elecciones son limpias o no.
+  links:
+    - { label: "English version", icon: "fa-solid fa-language", url: "https://www.researchgate.net/publication/393468465_Citizen_forecasts_of_Mexican_presidential_elections_2000-2024" }
+    - { label: "Replication", icon: "fa-solid fa-database", url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X5MXHA" }
+
+- title: "Voters' Expectations in Constituency Elections Without Local Polls"
+  coauthors: [lukas_stoetzer, mark_kayser, arndt_leininger]
+  venue: "Public Opinion Quarterly"
+  year: 2024
+  type: journal
+  doi: "https://doi.org/10.1093/poq/nfae015"
+  abstract: >
+    How do voters form accurate expectations about the strength of political candidates in constituency elections if there are no reliable constituency polls available? We argue that voters can use national election polls and past election results to increase the accuracy of their expectations. A survey experiment during the German federal election of 2021 confirms that the provision of national election polls and past results increases the accuracy of voters’ expectations. The analysis further shows that voters leverage the information to update their beliefs. The results have relevant implications for debates about belief formation in low-information environments.
+  links:
+    - { label: "Preprint", icon: "fa-solid fa-file-pdf", url: "https://wrap.warwick.ac.uk/id/eprint/184945/1/WRAP-voters-expectations-constituency-elections-without-local-polls-Murr-2024.pdf" }
+    - { label: "Replication", icon: "fa-solid fa-database", url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Z6QZ8F" }
+
+- title: "Computing Quantities of Interest and Their Uncertainty Using Bayesian Simulation"
+  coauthors: [richard_traunmuller, jeff_gill]
+  venue: "Political Science Research and Methods"
+  year: 2023
+  type: journal
+  doi: "https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/computing-quantities-of-interest-and-their-uncertainty-using-bayesian-simulation/A2D03D8CC3234F82E8A6C9979973B897"
+  abstract: >
+    When analyzing data, researchers are often less interested in the parameters of statistical models than in functions of these parameters such as predicted values. Here we show that Bayesian simulation with Markov-Chain Monte Carlo tools makes it easy to compute these quantities of interest with their uncertainty. We illustrate how to produce customary and relatively new quantities of interest such as variable importance ranking, posterior predictive data, difficult marginal effects, and model comparison statistics to allow researchers to report more informative results.
+  links:
+    - { label: "Replication", icon: "fa-solid fa-database", url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ONY6WJ" }
+
+- title: "Citizen Forecasting: The 2022 French Presidential Elections"
+  coauthors: [yannick_dufresne, bruno_jerome, michael_lewis_beck, justin_savoie]
+  venue: "PS: Political Science & Politics"
+  year: 2022
+  type: journal
+  doi: "https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/citizen-forecasting-the-2022-french-presidential-elections/0FBB7FDC3FAF7F41A2E99C595D7753AF"
+  abstract: >
+    An abstract in not available.
+  links:
+    - { label: "Preprint", icon: "fa-solid fa-file-pdf", url: "https://wrap.warwick.ac.uk/id/eprint/162995/1/WRAP-citizen-forecasting-2022-French-presidential-election-Murr-2022.pdf" }
+
+- title: "Citizen Forecasts of the 2021 German Election"
+  coauthors: [michael_lewis_beck]
+  venue: "PS: Political Science & Politics"
+  year: 2022
+  type: journal
+  doi: "https://doi.org/10.1017/S1049096521000925"
+  abstract: >
+    An abstract in not available.
+  links:
+    - { label: "Preprint", icon: "fa-solid fa-file-pdf", url: "https://wrap.warwick.ac.uk/id/eprint/154353/1/WRAP-Citizen-forecasts-2021-German-election-2021.pdf" }
+    - { label: "Replication", icon: "fa-solid fa-database", url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WVTI2K" }
+
+- title: "Do Party Leadership Contests Predict British General Elections?"
+  venue: "Electoral Studies"
+  year: 2021
+  type: journal
+  doi: "https://doi.org/10.1016/j.electstud.2021.102342"
+  abstract: >
+    When assessing election forecasts, two important criteria emerge: their accuracy (precision) and lead time (distance to event). Curiously, in both 2010 and 2015 the most accurate forecasts came from models having the longest lead time—albeit at most 12 months. Can we increase the lead time further, supposing we tolerate a small decrease in accuracy? Here, we develop a model with a lead time of more than 3 years. Our Party Leadership Model relies on the votes of MPs when selecting their party leader. We assess the forecasting quality of our model with both leave-one-out cross-validation and a before-the-fact forecast of the 2019 general election. Compared to both simple forecasting methods and other scientific forecasts, our model emerges as a leading contender. This result suggests that election forecasting may benefit from developing models with longer lead times, and that party leaders may influence election outcomes more than is usually thought.
+  links:
+    - { label: "Preprint", icon: "fa-solid fa-file-pdf", url: "https://wrap.warwick.ac.uk/id/eprint/152051/1/WRAP-Do-party-leadership-contests-forecast-British-gneral-elections-2021.pdf" }
+    - { label: "Replication", icon: "fa-solid fa-database", url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OBI10H" }
+
+- title: "Vote Expectations Versus Vote Intentions: Rival Forecasting Strategies"
+  coauthors: [mary_stegmaier, michael_lewis_beck]
+  venue: "British Journal of Political Science"
+  year: 2021
+  type: journal
+  doi: "https://www.cambridge.org/core/journals/british-journal-of-political-science/article/vote-expectations-versus-vote-intentions-rival-forecasting-strategies/F356B6E348524FDB1EC0B858ECEEE3C2"
+  abstract: >
+    Are ordinary citizens better at predicting election results than conventional voter intention polls? The authors address this question by comparing eight forecasting models for British general elections: one based on voters' expectations of who will win and seven based on who voters themselves intend to vote for (including ‘uniform national swing model’ and ‘cube rule’ models). The data come from ComRes and Gallup polls as well as the Essex Continuous Monitoring Surveys, 1950–2017, yielding 449 months with both expectation and intention polls. The large sample size permits comparisons of the models' prediction accuracy not just in the months prior to the election, but in the years leading up to it. Vote expectation models outperform vote intention models in predicting both the winning party and parties' seat shares.
+  links:
+    - { label: "Preprint", icon: "fa-solid fa-file-pdf", url: "https://wrap.warwick.ac.uk/id/eprint/113476/1/WRAP-vote-expectations-versus-intentions-strategies-Murr-2019.pdf" }
+    - { label: "Replication", icon: "fa-solid fa-database", url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9JLCSY" }
+
+- title: "Citizen Forecasting 2020: A State-by-State Experiment"
+  coauthors: [michael_lewis_beck]
+  venue: "PS: Political Science & Politics"
+  year: 2021
+  type: journal
+  doi: "https://doi.org/10.1017/S1049096520001456"
+  abstract:
+  links:
+    - { label: "Preprint", icon: "fa-solid fa-file-pdf", url: "https://wrap.warwick.ac.uk/id/eprint/141356/1/WRAP-citizen-forecasting%202020-state-by-state-experiment-Murr-2020.pdf" }
+    - { label: "Replication", icon: "fa-solid fa-database", url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/S1594S" }
+
+- title: "Social Networks and Citizen Election Forecasting: The More Friends the Better"
+  coauthors: [debra_leiter, ericka_rascon, mary_stegmaier]
+  venue: "International Journal of Forecasting"
+  year: 2018
+  type: journal
+  doi: "https://www.sciencedirect.com/science/article/pii/S0169207017301371"
+  abstract: >
+    Most citizens correctly forecast which party will win a given election, and such forecasts usually have a higher level of accuracy than voter intention polls. How do citizens do it? We argue that social networks are a big part of the answer: much of what we know as citizens comes from our interactions with others. Previous research has considered only indirect characteristics of social networks when analyzing why citizens are good forecasters. We use a unique German survey and consider direct measures of social networks in order to explore their role in election forecasting. We find that three network characteristics –  size, political composition, and frequency of political discussion – are among the most important variables when predicting the accuracy of citizens’ election forecasts.
+  links:
+    - { label: "Preprint", icon: "fa-solid fa-file-pdf", url: "https://wrap.warwick.ac.uk/id/eprint/95184/7/WRAP-social-networks-citizen-election-forecasting-Murr-2017.pdf" }
+
+- title: "The Wisdom of Crowds: What do Citizens Forecast for the 2015 British General Election?"
+  venue: "Electoral Studies"
+  year: 2016
+  type: journal
+  doi: "http://dx.doi.org/10.1016/j.electstud.2015.11.018"
+  abstract: >
+    Who do you think will win in your constituency? Most citizens correctly answer this question, and groups are even better at answering it. Combining individual forecasts results in the ‘wisdom of crowds’ explained by Condorcet's jury theorem. This paper demonstrates the accuracy of citizen forecasts in seven British General Elections between 1964 and 2010, and reports what citizens interviewed in February and March forecasted for the election in May 2015. ‘Citizen forecasting’ predicts vote shares and winners in constituency elections, and seat numbers and governments in national elections. The paper also introduces a new method for predicting vote shares from citizen forecasts. Citizen forecasts are direct, accurate, and comprehensible. Pollsters should collect them and communicate their results more often.
+  links: []
+
+- title: "The Wisdom of Crowds: Applying Condorcet's Jury Theorem to Forecasting U.S. Presidential Elections"
+  venue: "International Journal of Forecasting"
+  year: 2015
+  type: journal
+  doi: "https://doi.org/10.1016/j.ijforecast.2014.12.002"
+  abstract: >
+    Increasingly, professional forecasters rely on citizen forecasts when predicting election results. Following this approach, forecasters predict the winning party to be the one which most citizens have said will win. This approach predicts winners and vote shares well, but related research has shown that some citizens forecast better than others. Extensions of Condorcet’s jury theorem suggest that naïve citizen forecasting can be improved by delegating the forecasting to the most competent citizens and by weighting their forecasts by their level of competence. Indeed, doing so increases both the accuracy of vote share predictions and the number of states forecast correctly. Allocating the state’s electoral votes to the candidate who the most weighted delegates say will win yields a simple but successful forecasting model of the US Presidency. The ‘wisdom of crowds’ model predicts eight presidential elections out of nine correctly. The results suggest that delegating and weighting provide easy ways to improve citizen forecasting.
+  links: []
+
+- title: "The Party Leadership Model: An Early Forecast of the 2015 British General Election"
+  venue: "Research & Politics"
+  year: 2015
+  type: journal
+  doi: "https://doi.org/10.1177/2053168015583346"
+  abstract: >
+    British political parties select their leaders to win elections. The winning margin of the party leader among the selectorate reflects how likely they think she is to win the General Election. The present research compares the winning margins of party leaders in their party leadership elections and uses the results of this comparison to predict that the party leader with the larger winning margin will become the next Prime Minister. I term this process “the Party Leadership Model”. The model correctly forecasts 8 out of 10 past elections, while making these forecasts 4 years in advance on average. According to a Bayesian analysis, there is a 95 per cent probability that having the larger winning margin in party leadership elections increases the chances of winning the General Election. Because David Cameron performed better among Conservative MPs in 2005 than Ed Miliband did among Labour MPs in 2010, the model predicts Cameron to become Prime Minister again in 2015. The Bayesian calculation puts his chances of re-election at 75 per cent.
+  links:
+    - { label: "Replication", icon: "fa-solid fa-database", url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KN0U9W" }
+
+- title: "Modeling Latent Information in Voting Data with Dirichlet Process Priors"
+  coauthors: [richard_traunmuller, jeff_gill]
+  venue: "Political Analysis"
+  year: 2015
+  type: journal
+  doi: "https://doi.org/10.1093/pan/mpu018"
+  abstract: >
+    We apply a specialized Bayesian method that helps us deal with the methodological challenge of unobserved heterogeneity among immigrant voters. Our approach is based on generalized linear mixed Dirichlet models (GLMDMs) where random effects are specified semiparametrically using a Dirichlet process mixture prior that has been shown to account for unobserved grouping in the data. Such models are drawn from Bayesian nonparametrics to help overcome objections handling latent effects with strongly informed prior distributions. Using 2009 German voting data of immigrants, we show that for difficult problems of missing key covariates and unexplained heterogeneity this approach provides (1) overall improved model fit, (2) smaller standard errors on average, and (3) less bias from omitted variables. As a result, the GLMDM changed our substantive understanding of the factors affecting immigrants' turnout and vote choice. Once we account for unobserved heterogeneity among immigrant voters, whether a voter belongs to the first immigrant generation or not is much less important than the extant literature suggests. When looking at vote choice, we also found that an immigrant's degree of structural integration does not affect the vote in favor of the CDU/CSU, a party that is traditionally associated with restrictive immigration policy.
+  links:
+    - { label: "Replication", icon: "fa-solid fa-database", url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/27564" }
+
+- title: "\"Wisdom of crowds\"? A decentralised election forecasting model that uses citizens' local expectations"
+  venue: "Electoral Studies"
+  year: 2011
+  type: journal
+  doi: "http://dx.doi.org/10.1016/j.electstud.2011.07.005"
+  abstract: >
+    Many studies report the “wonders of aggregation” and that groups (often) yield better decisions than individuals. Can this “wisdom of crowds”-effect be used to forecast elections? Forecasting models in first-past-the-post systems need to translate vote shares into seat shares by some formula; however, the seat–vote ratio alters from election to election. To circumvent this problem, this paper proposes citizen forecasting, which aggregates citizens’ local expectations to directly forecast constituencies. Using data from the 2010 British Election Study, this paper finds (1) that groups are better forecasters than individuals, (2) that citizen forecasting correctly predicts a hung parliament, and (3) that marginality and group size are important predictors for “getting it right”.
+  links: []
+
+# ===================================================================
+# Book chapters
+# ===================================================================
+
+- title: "Bürger:innenprognosen in einem Mischwahlsystem: Die deutsche Bundestagswahl 2021 als Testfall"
+  coauthors: [arndt_leininger, lukas_stoetzer, mark_kayser]
+  venue: "Wahlen und Wähler (Harald Schoen & Bernhard Weßels, eds.)"
+  year: 2024
+  type: book_chapter
+  doi: "https://doi.org/10.1007/978-3-658-42694-1_15"
+  abstract: >
+    [Add abstract here.]
+  links: []
+
+- title: "\"Wisdom of Crowds\""
+  venue: "The Sage Handbook of Electoral Behaviour (Kai Arzheimer, Jocelyn Evans & Michael Lewis-Beck, eds.)"
+  year: 2017
+  type: book_chapter
+  doi: "https://www.researchgate.net/publication/308985928_Wisdom_of_Crowds"
+  abstract: >
+    [Add abstract here.]
+  links: []

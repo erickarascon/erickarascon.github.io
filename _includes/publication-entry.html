@@ -1,0 +1,53 @@
+{%- comment -%}
+  Renders a single publication entry.
+  Expects: include.pub — one entry from site.data.publications
+{%- endcomment -%}
+
+<div class="pub-entry">
+  <p class="pub-title">
+    {%- if include.pub.doi -%}
+      <a href="{{ include.pub.doi }}">{{ include.pub.title }}</a>
+    {%- else -%}
+      {{ include.pub.title }}
+    {%- endif -%}
+  </p>
+
+  <p class="pub-meta">
+    {%- if include.pub.coauthors and include.pub.coauthors.size > 0 -%}
+      with
+      {% for key in include.pub.coauthors -%}
+        {%- assign person = site.data.coauthors[key] -%}
+        {%- if person.url -%}
+          <a href="{{ person.url }}">{{ person.name }}</a>
+        {%- elsif person.name -%}
+          {{ person.name }}
+        {%- else -%}
+          {{ key }}
+        {%- endif -%}
+        {%- if forloop.last == false and forloop.rindex == 2 %} &amp; {% elsif forloop.last == false %}, {% endif -%}
+      {%- endfor %}
+      &middot;
+    {% endif %}
+    <span class="pub-venue">{{ include.pub.venue }}</span>
+    &middot;
+    <span class="pub-year">{{ include.pub.year }}</span>
+  </p>
+
+  {%- assign has_links = false -%}
+  {%- if include.pub.links and include.pub.links.size > 0 -%}{%- assign has_links = true -%}{%- endif -%}
+  {%- if has_links %}
+    <div class="pub-links">
+      {% for link in include.pub.links -%}
+        <a class="pub-link" href="{{ link.url }}"><i class="{{ link.icon }}" aria-hidden="true"></i>{{ link.label }}</a>
+      {%- endfor %}
+    </div>
+  {% endif %}
+
+  {%- assign abstract_text = include.pub.abstract | strip -%}
+  {%- if abstract_text != "" and abstract_text != "[Add abstract here.]" %}
+    <details class="pub-abstract">
+      <summary><i class="fa-solid fa-chevron-right" aria-hidden="true"></i>Abstract</summary>
+      <p class="abstract-body">{{ include.pub.abstract | strip }}</p>
+    </details>
+  {% endif %}
+</div>
