@@ -19,7 +19,7 @@ I earned my PhD in Economics from the [University Essex](https://www.essex.ac.uk
 
 My academic work has been [published](/publications/) in the *American Journal of Political Science*, *American Political Science Review*, *Economic Letters*, the *International Journal of Forecasting*, and *Judgement and Decision Making*, among other outlets.
 
-My most recent [research](/research/) focuses on increasing schooling enrolment and learning outcomes in rural communities in developing countries.
+My [research](/research/) focuses on the design and evaluation of interventions aiming to increase school enrolment and learning outcomes, reduce gender-biased social norms, increase awareness about risky sexual behaviour and early marriage, and improve young people's understanding about democracy.
 
 I am Associate Editor of the [Latin American Economic Review](https://www.latinaer.org/index.php/laer), Member of the Editorial Board of the [Journal of Behavioral and Experimental Economics](https://www.sciencedirect.com/journal/journal-of-behavioral-and-experimental-economics), Guest Editor of the [Special Issue on the 50th Anniversary of the Division of Economics of CIDE](https://www.latinaer.org/index.php/laer/announcement/view/3) at the Latin American Economic Review, and Guest Editor of the [Special Issue on Innovations in Survey Design and Data Collection](https://www.sciencedirect.com/special-issue/319331/innovations-in-survey-design-and-data-collection) at the Journal of Economic Psychology.
 
