@@ -27,7 +27,8 @@ My experience on design, implementation, and evaluation of social interventions 
 ![](/assets/images/learning-democracy.png) | [Promotion of civic education in a new democracy](https://www.socialscienceregistry.org/trials/4509) | Randomised online trial | Tunisia
 ![](/assets/images/prospect.png) | [Testing frames to learn about democracy](https://osf.io/qjrdz) | Randomised online trial | Worldwide
 ![](/assets/images/gender.png) | [Examining gender stereotypes and homophily in team formation](https://aspredicted.org/PZG_FHD) | Randomised online trial | UK 
+![](/assets/images/monster.jpeg) | What Gets Parents to Install and Use a Reading App for Children? | Online experiment | Bangladesh, Nigeria, and Senegal
+![](/assets/images/edtech.png) Digital Recruitment and Engagement Pathways for a Literacy Intervention in Kano, Nigeria | In-person, online, and phone-based experiment | Nigeria
 ![](/assets/images/parenthood.jpg) | [Transition to parenthood](https://x.com/T_to_Parenthood) | Survey experiment | UK
-![](/assets/images/edtech.png) | What Gets Parents to Install and Use a Reading App for Children? | Online experiment | Bangladesh, Nigeria, and Senegal
 ![](/assets/images/counter.png) | Raising awareness on misogyny and toxic masculinity | Research pilot | UK
 ![](/assets/images/shoutout.jpeg) | [Prebunking for democracy](https://www.shoutoutuk.org)  | Research pilot | UK
