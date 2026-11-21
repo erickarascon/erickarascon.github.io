@@ -11,6 +11,8 @@ permalink: /publications/
 title: Journal Articles
 ---
 
+[Promoting democracy online: Evidence from a 33 country experiment](https://eprints.gla.ac.uk/393443/1/393443.pdf) (with Anja Neundorf, Aykut Öztürk & Steven Finkel).  **American Political Science Review**.  Forthcoming.
+
 [Keep Positive and Defend Democracy: Framing Democratic Messages Under Authoritarianism](https://www.cambridge.org/core/journals/european-journal-of-political-research/article/keep-positive-and-defend-democracy-framing-democratic-messages-under-authoritarianism/60009AA77B3EBBCCB1BC6FB51A219CCE) (with Aykut Öztürk, Steven Finkel & Anja Neundorf).  **European Journal of Political Research**.  2026.
 
 [Diffusion of mobile banking among rural women: Incentivizing local leaders vs. a marketing campaign](https://www.sciencedirect.com/science/article/abs/pii/S2214635025000668) (with Pablo Brañas-Garza & Jaromír Kovářík).  **Journal of Behavioral and Experimental Finance**.  2025.
@@ -55,7 +57,5 @@ Randomized Controlled Trials in Ulf Liebe (editor): **Handbook of Quantitative M
 # Under Review
 
 [Gender Stereotypes and Homophily in Team Formation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146749) (with Antonio Cabrales, Lorenzo Ductor and Ismael Rodriguez-Lara).
-
-[(When) Does civic education work: Evidence from a cross-national online experiment](https://osf.io/preprints/osf/ue6qj) (with Anja Neundorf, Aykut Öztürk & Steven Finkel.
 
 [Mobilizing for Democracy Under Authoritarianism: The Power of Social Media Advertisement](https://sciety-labs.elifesciences.org/articles/by?article_doi=10.31219/osf.io/g5cya_v2) (with Steven Finkel, Anja Neundorf and Aykut Öztürk).
