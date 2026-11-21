@@ -28,6 +28,7 @@ My experience on design, implementation, and evaluation of social interventions 
 ![](/assets/images/prospect.png) | [Testing frames to learn about democracy](https://osf.io/qjrdz) | Randomised online trial | Worldwide
 ![](/assets/images/gender.png) | [Examining gender stereotypes and homophily in team formation](https://aspredicted.org/PZG_FHD) | Randomised online trial | UK 
 ![](/assets/images/parenthood.jpg) | [Transition to parenthood](https://x.com/T_to_Parenthood) | Survey experiment | UK
-![](/assets/images/edtech.png) | Promotion of educational technologies | Online experiment | Worldwide
+![](/assets/images/edtech.png) | What Gets Parents to Install and Use a Reading App for Children?
+Experimental Evidence from Three Countries | Online experiment | Bangladesh, Nigeria, and Senegal
 ![](/assets/images/counter.png) | Raising awareness on misogyny and toxic masculinity | Research pilot | UK
 ![](/assets/images/shoutout.jpeg) | [Prebunking for democracy](https://www.shoutoutuk.org)  | Research pilot | UK
