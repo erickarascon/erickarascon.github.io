@@ -7,3 +7,9 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Keep table images visible on narrow screens: with max-width: 100% an image
+   has no minimum width, so the image column collapses to nothing on phones. */
+.page__content table img {
+  min-width: 90px;
+}
