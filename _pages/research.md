@@ -20,7 +20,7 @@ I am also working with political scientists to design interventions to promote d
 My experience on design, implementation, and evaluation of social interventions in the field and on online platforms has been primarily in Africa and Middle East.  I primarily use randomised control trials (RCTs) to evaluate these interventions.
 
 | | Project | Type | Country
-![](/assets/images/edtech-girls.jpg) | Diffusing EdTech through Teacher and Household Networks | Cluster-randomised field trial | Nigera
+![](/assets/images/edtech-girls.jpg) | Diffusing EdTech through Teacher and Household Networks | Cluster-randomised field trial | Nigeria
 ![](/assets/images/fostering-human-capital.jpg) | [Fostering human capital and youth empowerment in Northwest Nigeria](https://www.socialscienceregistry.org/trials/16233) | Cluster-randomised field trial | Nigeria
 ![](/assets/images/movies-and-mobiles.jpeg) | [Increasing school enrolment and learning through movies and mobiles](https://www.socialscienceregistry.org/trials/3619)  | Cluster-randomised field trial | Nigeria
 ![](/assets/images/educational-entertainment.jpeg) | [Sexual awareness through educational entertainment](https://aspredicted.org/e4h8c.pdf) | Randomised online trial | Ghana, Nigeria and Zambia
