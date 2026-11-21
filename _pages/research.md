@@ -25,7 +25,7 @@ My experience on design, implementation, and evaluation of social interventions 
 ![](/assets/images/movies-and-mobiles.jpeg) | [Increasing school enrolment and learning through movies and mobiles](https://www.socialscienceregistry.org/trials/3619)  | Cluster-randomised field trial | Nigeria
 ![](/assets/images/educational-entertainment.jpeg) | [Sexual awareness through educational entertainment](https://aspredicted.org/e4h8c.pdf) | Randomised online trial | Ghana, Nigeria and Zambia
 ![](/assets/images/learning-democracy.png) | [Promotion of civic education in a new democracy](https://www.socialscienceregistry.org/trials/4509) | Randomised online trial | Tunisia
-![](/assets/images/turkey-add.png)| [Mobilizing Electoral Observers Under Electoral Authoritarianism?](https://osf.io/gjaqd/overview) | Turkey
+![](/assets/images/turkey-add.png)| [Mobilizing Electoral Observers Under Electoral Authoritarianism?](https://osf.io/gjaqd/overview) | Randomised online trial	| Turkey
 ![](/assets/images/prospect.png) | [Testing frames to learn about democracy](https://osf.io/qjrdz) | Randomised online trial | Worldwide
 ![](/assets/images/gender.png) | [Examining gender stereotypes and homophily in team formation](https://aspredicted.org/PZG_FHD) | Randomised online trial | UK 
 ![](/assets/images/monster.jpeg) | What Gets Parents to Install and Use a Reading App for Children? | Online experiment | Bangladesh, Nigeria, and Senegal
